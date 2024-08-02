@@ -87,8 +87,6 @@ To predict future sales quantities and provide insightful visualizations to assi
 
 ![STREAMLIT Overview](https://github.com/user-attachments/assets/8c79d29d-25c1-4956-81ea-86ae387fd392)
 
-# Streamlit link
-http://localhost:8501/#forecasting-product-quantity
 
 # Report Snapshot (Tableau)
 
